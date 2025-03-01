@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+services.txt
+ny_taxi_postgres/*
+data_pgadmin/*
+kafka-wk6/*
+batch-wk5/data/*
+batch-wk5/fhvhv/*
+batch-wk5/lib/*
+batch-wk5/tmp/*
+batch-wk5/zones/*
+dez_kestra_google_credentials.json
